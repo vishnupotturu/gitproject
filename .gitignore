@@ -1,10 +1,12 @@
 /file1.txt
 /file2.txt
-/index.html
-/style.css
+
 
 # Auto Generated Files
 
 auto-gen-files/text1.txt
 auto-gen-files/text2.txt
 auto-gen-files/text3.txt
+
+# or we can use auto-gen-files/* <-- this will include all files in the auto-gen-files folder
+
